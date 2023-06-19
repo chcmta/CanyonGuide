@@ -7,7 +7,7 @@ const Intro = () => {
         彰化縣登山協會
       </h1>
       <h4 className="text-center md:text-left text-3xl mt-5 md:pl-8">
-        溯溪嚮導訓練與檢定
+        山域嚮導溯溪類別訓練與檢定
       </h4>
     </section>
   );
