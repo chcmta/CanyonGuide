@@ -1,13 +1,13 @@
 ---
 title: "山域嚮導-溯溪類別檢定-41場次已完成檢定相關作業"
 excerpt: "這是山協第一次承辦山域嚮導-溯溪類別檢定作業，其中雖然有許多狀況，但在全體山協伙伴的努力下，終於順利的完成此次檢定工作。"
-coverImage: "/assets/blog/dynamic-routing/cover.jpg"
+coverImage: "/assets/blog/exam41/cover.jpg"
 date: "2022-08-12T05:35:07.322Z"
 author:
   name: 彰化山協溯溪部
   picture: "/assets/山協LOGO-透明.png"
 ogImage:
-  url: "/assets/blog/dynamic-routing/cover.jpg"
+  url: "/assets/blog/exam41/cover.jpg"
 ---
 
 這是山協第一次承辦山域嚮導-溯溪類別檢定作業，其中雖然有許多狀況，但在全體山協伙伴的努力下，終於順利的完成此次檢定工作。
